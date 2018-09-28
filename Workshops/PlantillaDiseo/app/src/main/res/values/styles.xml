@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Textos generales-->
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="btn_facebook">
+        <item name="android:background">@color/colorFacebook</item>
+    </style>
+
+    <style name="btn_registrarme">
+        <item name="android:background">@color/colorVerde</item>
+    </style>
+
+</resources>

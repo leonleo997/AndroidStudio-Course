@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlantillaDiseño</string>
+    <!-- -->
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="olvide_contrasenia">¿Olvidé la contraseña?</string>
+    <string name="facebook">Registrarme con Facebook</string>
+    <string name="registrar">Crear una cuenta</string>
+</resources>
