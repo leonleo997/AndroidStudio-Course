@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Color sing in-->
+    <color name="colorPrimary">#0A0909</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <!-- Color botones-->
+    <color name="colorFacebook">#3B5998</color>
+    <color name="colorVerde">#00D95A</color>
+
+
+</resources>
